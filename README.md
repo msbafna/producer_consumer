@@ -19,7 +19,7 @@ rm -f a.out *.o cscope.out tags <br />
 
 Usage <br />
 
-$ ./a.out -h
+$ ./a.out -h <br />
 Usage: <br />
 ./a.out [-p no_of_producer_threads] [-c no_of_consumer_threads] [-t producer_delay_in_sec] [-T consumer_delay_in_sec] [-s buf_size] <br />
 
