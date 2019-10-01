@@ -67,4 +67,4 @@ DEBUG: Consumer thread exiting, thread id - 289142528 <br />
 
 # How to stop 
 
-Press Ctlr-c OR 'kill -SIGINT <pid>' to stop process. <br />
+Press Ctlr-c OR `kill -SIGINT <pid>` to stop process. <br />
